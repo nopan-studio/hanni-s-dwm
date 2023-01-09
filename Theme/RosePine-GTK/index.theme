@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=RosePine-GTK-dark
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=RosePine-GTK-dark
+MetacityTheme=RosePine-GTK-dark
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
